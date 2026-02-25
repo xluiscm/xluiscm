@@ -20,31 +20,28 @@ Soy un estudiante de **Desarrollo de Software Multiplataforma** con una mentalid
 
 ### 💻 Tecnologías y Herramientas
 
-**Lenguajes y Backend**
-- ☕ **Java** - Desarrollo de lógica robusta y escalable.
-- 🟨 **JavaScript** - Creación de soluciones dinámicas.
-- 🐬 **MySQL y Workbench** - Diseño y administración de bases de datos.
-- 🐘 **XAMPP** - Gestión de entornos de desarrollo local.
+<div align="center">
 
-**Frontend y Estilo**
-- 🎨 **Tailwind CSS** - Diseño de interfaces moderno y ágil.
-- 📄 **HTML5 y CSS3** - Maquetación web con estándares actuales.
+| **Lenguajes y Backend** | **Frontend y Estilo** | **Entorno de Trabajo** |
+| :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> | <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> | <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> | <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" /> |
 
-**Entorno de Trabajo**
-- 🌿 **Git** - Control de versiones y flujo de trabajo colaborativo.
+</div>
 
 ---
 
 ### 📊 Actividad en GitHub
 <div align="center">
   
-  <img src="https://img.shields.io/badge/Contribuciones-90_Total-00d1ff?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Racha_Actual-1_Día-orange?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/Racha_Más_Larga-8_Días-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Contribuciones-248_Total-ff79c6?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Commits_2026-84_Total-00d1ff?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Racha_Máxima-8_Días-brightgreen?style=for-the-badge" />
 
   <br><br>
 
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=xluiscm&theme=dark&hide_border=true&fire=00d1ff&currStreakLabel=00d1ff" alt="Racha de xluiscm" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=xluiscm&theme=tokyonight&hide_border=true&fire=ff79c6&ring=00d1ff&currStreakLabel=00d1ff" alt="Racha de xluiscm" />
 
 </div>
 
